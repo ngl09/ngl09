@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ngl09
+- 👋 Hi, I’m Shashanka k bharadwaj
 - 👀 I’m interested in football and video games
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
